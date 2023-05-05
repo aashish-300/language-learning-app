@@ -1,0 +1,16 @@
+.courses{
+    padding: 20px;
+}
+
+.title{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white
+}
+
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
